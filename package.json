@@ -36,11 +36,10 @@
   },
   "homepage": "http://leviwheatcroft.github.io/superagent-throttle",
   "dependencies": {
-    "superagent": "^1.8.3",
     "vow": "^0.4.15"
   },
   "peerDependencies": {
-    "superagent": "^3.5.2",
+    "superagent": "^3.5.2"
   },
   "devDependencies": {
     "babel-cli": "^6.16.0",
